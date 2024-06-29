@@ -1,4 +1,4 @@
-function myFun(){
-  console.log('function');
+function myFun(name){
+  console.log('my name is',name);
 }
-myFun();
+myFun('mayur');
